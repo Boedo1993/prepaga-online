@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sancorsaludasesores.com.ar/sitemap.xml
